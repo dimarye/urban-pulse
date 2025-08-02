@@ -2,9 +2,6 @@
 
 **Urban Pulse** is an interactive dashboard that visualizes global urbanization, migration, and demographic trends using D3.js. The project focuses on clear, responsive, and animated data visualizations with a modern design.
 
-## 🌐 Live Demo
-
-[🔗 View Demo](#) — *(Optional: Add GitHub Pages or Netlify link here)*
 
 ---
 
