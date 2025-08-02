@@ -1,0 +1,29 @@
+[
+  { "region": "World", "group": "0-14", "value": 26 },
+  { "region": "World", "group": "15-64", "value": 65 },
+  { "region": "World", "group": "65+", "value": 9 },
+
+  { "region": "Africa", "group": "0-14", "value": 41 },
+  { "region": "Africa", "group": "15-64", "value": 55 },
+  { "region": "Africa", "group": "65+", "value": 4 },
+
+  { "region": "Asia", "group": "0-14", "value": 24 },
+  { "region": "Asia", "group": "15-64", "value": 68 },
+  { "region": "Asia", "group": "65+", "value": 8 },
+
+  { "region": "Europe", "group": "0-14", "value": 16 },
+  { "region": "Europe", "group": "15-64", "value": 64 },
+  { "region": "Europe", "group": "65+", "value": 20 },
+
+  { "region": "North America", "group": "0-14", "value": 18 },
+  { "region": "North America", "group": "15-64", "value": 65 },
+  { "region": "North America", "group": "65+", "value": 17 },
+
+  { "region": "South America", "group": "0-14", "value": 22 },
+  { "region": "South America", "group": "15-64", "value": 67 },
+  { "region": "South America", "group": "65+", "value": 11 },
+
+  { "region": "Oceania", "group": "0-14", "value": 23 },
+  { "region": "Oceania", "group": "15-64", "value": 65 },
+  { "region": "Oceania", "group": "65+", "value": 12 }
+]

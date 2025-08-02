@@ -1,0 +1,228 @@
+[
+  {
+    "country": "Hong Kong SAR, China",
+    "urban_percent": 100.0,
+    "density": 7140
+  },
+  {
+    "country": "Nauru",
+    "urban_percent": 100.0,
+    "density": 541
+  },
+  {
+    "country": "Gibraltar",
+    "urban_percent": 100.0,
+    "density": 3371
+  },
+  {
+    "country": "Cayman Islands",
+    "urban_percent": 100.0,
+    "density": 267
+  },
+  {
+    "country": "Sint Maarten (Dutch part)",
+    "urban_percent": 100.0,
+    "density": 1250
+  },
+  {
+    "country": "Kuwait",
+    "urban_percent": 100.0,
+    "density": 240
+  },
+  {
+    "country": "Monaco",
+    "urban_percent": 100.0,
+    "density": 26337
+  },
+  {
+    "country": "Bermuda",
+    "urban_percent": 100.0,
+    "density": 1201
+  },
+  {
+    "country": "Singapore",
+    "urban_percent": 100.0,
+    "density": 8358
+  },
+  {
+    "country": "Macao SAR, China",
+    "urban_percent": 100.0,
+    "density": 21254
+  },
+  {
+    "country": "Qatar",
+    "urban_percent": 99.3,
+    "density": 248
+  },
+  {
+    "country": "Belgium",
+    "urban_percent": 98.2,
+    "density": 383
+  },
+  {
+    "country": "San Marino",
+    "urban_percent": 97.7,
+    "density": 561
+  },
+  {
+    "country": "Virgin Islands (U.S.)",
+    "urban_percent": 96.1,
+    "density": 294
+  },
+  {
+    "country": "Uruguay",
+    "urban_percent": 95.7,
+    "density": 20
+  },
+  {
+    "country": "Japan",
+    "urban_percent": 91.9,
+    "density": 347
+  },
+  {
+    "country": "Germany",
+    "urban_percent": 77.5,
+    "density": 240
+  },
+  {
+    "country": "India",
+    "urban_percent": 35.2,
+    "density": 464
+  },
+  {
+    "country": "United States",
+    "urban_percent": 82.9,
+    "density": 36
+  },
+  {
+    "country": "Brazil",
+    "urban_percent": 87.6,
+    "density": 25
+  },
+  {
+    "country": "Canada",
+    "urban_percent": 81.3,
+    "density": 4
+  },
+  {
+    "country": "Australia",
+    "urban_percent": 86.2,
+    "density": 3
+  },
+  {
+    "country": "Nigeria",
+    "urban_percent": 52.0,
+    "density": 226
+  },
+  {
+    "country": "Russia",
+    "urban_percent": 74.0,
+    "density": 9
+  },
+  {
+    "country": "China",
+    "urban_percent": 63.9,
+    "density": 153
+  },
+
+  {
+    "country": "Papua New Guinea",
+    "urban_percent": 13.3,
+    "density": 20
+  },
+  {
+    "country": "Burundi",
+    "urban_percent": 14.1,
+    "density": 463
+  },
+  {
+    "country": "Malawi",
+    "urban_percent": 17.0,
+    "density": 203
+  },
+  {
+    "country": "Ethiopia",
+    "urban_percent": 21.0,
+    "density": 123
+  },
+  {
+    "country": "South Sudan",
+    "urban_percent": 24.1,
+    "density": 18
+  },
+  {
+    "country": "Rwanda",
+    "urban_percent": 17.4,
+    "density": 525
+  },
+  {
+    "country": "Nepal",
+    "urban_percent": 21.6,
+    "density": 203
+  },
+  {
+    "country": "Uganda",
+    "urban_percent": 26.2,
+    "density": 229
+  },
+  {
+    "country": "Cambodia",
+    "urban_percent": 24.5,
+    "density": 97
+  },
+  {
+    "country": "Chad",
+    "urban_percent": 24.2,
+    "density": 13
+  },
+  {
+    "country": "Burkina Faso",
+    "urban_percent": 31.2,
+    "density": 76
+  },
+  {
+    "country": "Afghanistan",
+    "urban_percent": 26.3,
+    "density": 60
+  },
+  {
+    "country": "Mozambique",
+    "urban_percent": 38.2,
+    "density": 39
+  },
+  {
+    "country": "Laos",
+    "urban_percent": 36.7,
+    "density": 32
+  },
+  {
+    "country": "Yemen",
+    "urban_percent": 37.9,
+    "density": 56
+  },
+  {
+    "country": "Sudan",
+    "urban_percent": 35.0,
+    "density": 25
+  },
+  {
+    "country": "Niger",
+    "urban_percent": 17.5,
+    "density": 19
+  },
+  {
+    "country": "Zambia",
+    "urban_percent": 44.2,
+    "density": 25
+  },
+  {
+    "country": "Myanmar",
+    "urban_percent": 31.1,
+    "density": 83
+  },
+  {
+    "country": "Tanzania",
+    "urban_percent": 37.0,
+    "density": 67
+  }
+]

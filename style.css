@@ -1,0 +1,30 @@
+body {
+    font-family: 'Segoe UI', Roboto, sans-serif;
+    font-size: 16px;
+    background-color: #f8f9fa;
+}
+
+#chartContainer {
+    min-height: 500px;
+    position: relative;
+}
+
+svg text {
+    font-size: 12px;
+}
+
+select.form-select {
+    font-size: 16px;
+    padding: 0.5rem 1rem;
+}
+
+.tooltip {
+    position: absolute;
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    padding: 6px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    pointer-events: none;
+    z-index: 10;
+}
